@@ -16,7 +16,7 @@
 
 ## 🔖 About
 
-Personal responsive website with my technology portfolio. Made purely with HTML, CSS and Javascript using Bootstrap. Hosted on Github Pages with DNS custom domain. SEO system configured by sitemap.xml for search engines. Custom bootstrap template "Personal - v2.1.0".
+Personal responsive website with my technology portfolio. Made purely with HTML, CSS and Javascript using Bootstrap. Hosted on Github Pages with DNS custom domain. SEO system configured by sitemap.xml  for search engines. Custom bootstrap template "Personal - v2.1.0".
 
 ## 🚀 Technologies and Tools
 
